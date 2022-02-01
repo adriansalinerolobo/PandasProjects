@@ -1,3 +1,3 @@
-# SQLProjects
+# PandasProjects
 
-This Repository will hold SQL Projects.
+This Repository will hold Pandas Projects.
